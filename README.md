@@ -1,8 +1,8 @@
 # Karthik Bhattaram
 
-## Who is Karthik?
+## Who Am I?
 
-I'm a third year computer science major at UCSB. CS is my passion!
+I'm a third year computer science major at UCSB. I'm from the Bay Area originally.
 
 ## Why Was This Made?
 
