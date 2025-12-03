@@ -10,5 +10,5 @@ I made this to let people know about my career experience and interests.
 
 ## Where Is It?
 
-You can find my website <a href="karthikb-dev.github.io">here</a>!
+You can find my website <a href="https://karthikb-dev.github.io">here</a>!
 
