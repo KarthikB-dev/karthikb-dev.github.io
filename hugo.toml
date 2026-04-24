@@ -1,0 +1,38 @@
+baseURL = "https://karthikb-dev.github.io/"
+languageCode = "en-us"
+title = "Karthik Bhattaram"
+paginate = 5
+
+[params]
+  description = "Computer Science @ UCSB — Network Security, Architecture, ML"
+  author = "Karthik Bhattaram"
+  # Color palette
+  colorBeige    = "#F5F0EB"
+  colorGray     = "#9E9E9E"
+  colorLilac    = "#B8A9C9"
+  colorBrown    = "#3B2A1A"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "Resume"
+    url = "/assets/pdf/karthik_bhattaram_resume.pdf"
+    weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"

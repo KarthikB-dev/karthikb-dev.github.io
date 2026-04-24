@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="container">
+
+<section class="hero" style="padding: 3rem 0 2rem;">
+  <h1>Blog</h1>
+  <p>Thoughts on security, systems, and whatever else catches my attention.</p>
+</section>
+
+<ul class="post-list">
+  {{- range .Pages }}
+  <li class="post-item">
+    <div>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ with .Params.summary }}<p class="post-summary">{{ . }}</p>{{ end }}
+      <div style="margin-top: 0.4rem;">
+        {{- range .Params.tags }}
+        <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+        {{- end }}
+      </div>
+    </div>
+    <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+  </li>
+  {{- end }}
+</ul>
+</div>
+
+{{ end }}
