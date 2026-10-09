@@ -1,0 +1,26 @@
+---
+title: Writing
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Writing | Karthik Bhattaram</title>
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <div id="main" style="max-width: 45em; margin: 3em auto; padding: 0 1em;">
+    <p><a href="/">← Home</a></p>
+    <h1>Writing</h1>
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <small>({{ post.date | date: "%b %-d, %Y" }})</small>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</body>
+</html>
