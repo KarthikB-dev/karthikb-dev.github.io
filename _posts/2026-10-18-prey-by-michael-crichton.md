@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Prey: Michael Crichton"
+---
 
 Movie aliens often look like humans, but *slightly* different. Special ears, green skin, etc. In cinema, this makes perfect sense! Casting a human-like alien and applying makeup to said human is far, far easier than training a tuna or salamander and convincing it to act out a scene.
 
