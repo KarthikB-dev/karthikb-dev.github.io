@@ -3,7 +3,7 @@ layout: post
 title: "Levels of Implementation Difficulty"
 ---
 
-Computer architecture lets you do many things! Caching, branch prediction, and more. Yet some are much, much more annoying (and consequently can result in longer delays) than others. A simple ranking my yours truly from best to worst:
+Computer architecture lets you do many things! Caching, branch prediction, and more. Yet some are much, much more annoying (and consequently can result in longer delays) than others. A simple ranking by yours truly from best to worst:
 
 1. Doing math using registers
 
