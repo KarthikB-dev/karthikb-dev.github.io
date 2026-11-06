@@ -27,6 +27,12 @@ Books I've read:
 
 - Epic fantasy novels following noble houses
 
+7. I Will Teach You to Be Rich by Ramit Sethi
+
+- Save some money for your 401K and ROTH and spend the rest of your money as you please
+
+- Pay of credit card debt immediately!
+
 Currently reading:
 
 1. A Storm of Swords
@@ -40,5 +46,4 @@ To read:
 3. A Brave New World
 
 4. 1984
-
 
