@@ -21,9 +21,9 @@ Books I've read:
 
 - Women living in Taliban-controlled Afghanistan
 
-5. A Game of Thrones
+5. A Game of Thrones by George R. R. Martin
 
-6. A Clash of Kings
+6. A Clash of Kings by George R. R. Martin
 
 - Epic fantasy novels following noble houses
 
@@ -35,7 +35,7 @@ Books I've read:
 
 Currently reading:
 
-1. A Storm of Swords
+1. A Storm of Swords by George R. R. Martin
 
 To read:
 
