@@ -17,7 +17,7 @@ Books I've read:
 
 - The story of two young men in Naxalite-era Kolkota
 
-4.A Thousand Splendid Suns 
+4. A Thousand Splendid Suns
 
 - Women living in Taliban-controlled Afghanistan
 
