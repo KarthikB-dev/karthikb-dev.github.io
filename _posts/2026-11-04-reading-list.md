@@ -3,7 +3,7 @@ layout: post
 title: "Reading List"
 ---
 
-Books I've read:
+# Books I've read:
 
 1. Daughters of the Flower Fragrant Garden by Zhuqing Li
 - Follows two sisters separated by the Chinese Civil War
@@ -20,11 +20,11 @@ Books I've read:
 - Save some money for your 401K and ROTH and spend the rest of your money as you please
 - Pay of credit card debt immediately!
 
-Currently reading:
+# Currently reading:
 
 1. A Storm of Swords by George R. R. Martin
 
-To read:
+# To read:
 
 1. The Namesake by Jhumpa Lahiri
 2. The Martian
