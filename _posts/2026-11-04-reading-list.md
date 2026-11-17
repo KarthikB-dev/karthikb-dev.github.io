@@ -10,7 +10,7 @@ title: "Reading List"
 2. Prey by Michael Crichton
 - Bioengineered micro-organisms take over
 3. The Lowland by Jhumpa Lahiri
-- The story of two young men in Naxalite-era Kolkota
+- The story of two young men in Naxalite-era Kolkata
 4. A Thousand Splendid Suns
 - Women living in Taliban-controlled Afghanistan
 5. A Game of Thrones by George R. R. Martin
