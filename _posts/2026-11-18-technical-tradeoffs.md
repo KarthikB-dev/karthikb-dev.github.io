@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Security Technical Tradeoffs"
+---
+
+Many tradeoffs must be considered when designing a microprocessor. For example, bandwidth and latency can be inversely proportional in a bus because the depth of the selection logic is proportional to the number of inputs. Also, power and clock frequency are inversely proportional as the latter controls how frequently capacitors are charged and discharged. But another interesting tradeoff is that between performance and security. Design requirements might outline the desired area, frequency, and switching frequency but security is very hard to quantify. Furthermore, while the expected revenue of a more performant microprocessor can be estimated, predicting the cost of a breach can be much harder. The loss in reputation and the cost of redesigning a chip to remove vulnerabilities (hardening) might not be known. This mean that security is often an afterthought. The solution therefore is to reform our policy environment to ensure that security is part of the hardware development life cycle. This is arguably more critical with hardware than software because applying updates is far more difficult with a CPU than with an operating system; the latter can be patched in hours, the former could take years to redesign, tape out, and replace. 
